@@ -1,0 +1,17 @@
+{
+  "name": "SMD Digital Solutions",
+  "short_name": "SMD Digital",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#071e3d",
+  "background_color": "#071e3d",
+  "icons": [
+    {
+      "src": "/brand/smd-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
